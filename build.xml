@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Hello world project " default="info">
+<target name="info">
+	<eaco>Hello World-welcome to siubhankar</echo>
+</target>
+</project>
+	
